@@ -1,4 +1,4 @@
-NumPy Explanation README
+NumPy Explanation
 
 Overview
 
