@@ -86,7 +86,7 @@ import numpy as np
 
 Start experimenting with arrays and NumPy’s functions!
 
-Resources
+# Resources
 
 
 
