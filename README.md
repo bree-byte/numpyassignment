@@ -95,5 +95,3 @@ Start experimenting with arrays and NumPy’s functions!
 Official NumPy Documentation
 
 
-
-NumPy Quickstart Tutorial# numpyassignment
